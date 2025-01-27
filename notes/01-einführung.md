@@ -18,10 +18,41 @@ JSON
 "nachname" Ramseier
 "familienmitglieder": 
 {
-"Mutter":
-"Vater":
-"Schwester":
-"Katze1":
-"Katze2":
+"mutter":
+"vater":
+"schwester":
+"katze1": Katana
+"katze2": Fluffy
 }
 }
+```
+
+Klasse = Bauplan für Objekt, beschreibt ohne Werte Eigenschaften des Objekts
+```
+JSON
+class Animal {
+art
+spezies
+lebensraum
+lebensdauer
+}
+{
+"art": Säugetier
+"spezies": Katze
+"lebensraum": Land
+"lebensdauer": ca 15 Jahre
+}
+{
+"art": Fisch
+"spezies": Koi
+"lebensraum": Wasser
+"lebensdauer": ca 25-35 Jahre
+}
+{
+"art": Reptil
+"spezies": Salamander
+"lebensraum": Land und Wasser
+"lebensdauer": 20-50 Jahre
+}
+```
+
