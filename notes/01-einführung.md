@@ -56,3 +56,6 @@ lebensdauer
 }
 ```
 
+Vererbung = Übernahme von Eigenschaften eines vorherigen Objekts
+Instanz der Klasse Hund (Beispiel Prüfungsfrage)
+Erklärung, weshalb Vererbung praktisch ist
